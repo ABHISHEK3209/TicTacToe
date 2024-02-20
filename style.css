@@ -50,7 +50,7 @@ section {
 
 
 footer{
-    position: absolute;
+    position: fixed;
     display: block;
     top: 95%;
     width: 100%;
